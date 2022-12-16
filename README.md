@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Talha Mustafa</h1>
 <h3 align="center">A committed and enthusiastic Web and Mobile App Developer with over 3+ years of experience, specializing in JavaScript but still eager to learn new technologies.</h3>
 
-<img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" width="400" alt="Programming Gif" align="right" style="max-width: 400px;">
+<img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" width="350" alt="Programming Gif" align="right">
 
 - 🌱 I’m currently learning **Next js, Cypress**
 
