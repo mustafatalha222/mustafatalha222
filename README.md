@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/5760059/74112617-d6741a00-4b63-11ea-9757-81c55fe8e9b5.gif)]
+![MasterHead](https://user-images.githubusercontent.com/5760059/74112617-d6741a00-4b63-11ea-9757-81c55fe8e9b5.gif)
 
 <h1 align="center">Hi 👋, I'm Talha Mustafa</h1>
 <h3 align="center">A committed and enthusiastic Web and Mobile App Developer with over 3+ years of experience, specializing in JavaScript but still eager to learn new technologies.</h3>
